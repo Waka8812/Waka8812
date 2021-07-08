@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Agustin Avellaneda
+- 👀 I’m interested in programming in general 
+- 🌱 I’m currently learning python,java and databases
+- 📫 How to reach me agustin.avellaneda20@gmail.com
